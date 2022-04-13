@@ -7,7 +7,7 @@
 </HEAD>
 
 <BODY>
-<H1><IMG SRC=piratehead.png alt=Pirate Head Logo><BR>Pirate Cafe
+<H1><IMG SRC=piratehead.png alt=Pirate Head Logo><BR>Musical
 </H1>
 
 
